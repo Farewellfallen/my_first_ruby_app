@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # rubyrails
 # rubyrails
+# my_first_ruby_app
